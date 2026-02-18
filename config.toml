@@ -19,7 +19,7 @@ copyright = "&copy; Copyright 2026 aamaro.com"
   # Date format
   #dateFormat = "January 2, 2006"
   # Put images/favicon.ico file
-  #favicon = "images/favicon.ico"
+  favicon = "favicon.svg"
 
 # This is displayer in About page.
 [params.author]
