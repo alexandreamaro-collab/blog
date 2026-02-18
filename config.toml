@@ -1,4 +1,4 @@
-baseurl = "https://blog.aamaro.com/"
+baseurl = "https://blog.aamaro.com"
 title = "Whiteplain"
 # themesDir = "../../"
 theme = ["whiteplain"]
