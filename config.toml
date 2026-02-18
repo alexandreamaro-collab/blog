@@ -1,5 +1,5 @@
 baseurl = "https://blog.aamaro.com"
-title = "Whiteplain"
+title = "aamaro.com"
 # themesDir = "../../"
 theme = ["whiteplain"]
 languageCode = "pt-BR"
